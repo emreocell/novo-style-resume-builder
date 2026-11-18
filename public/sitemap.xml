@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sitemap index: submit this one URL in Google Search Console. -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://parvez3019.github.io/novo-style-resume-builder/sitemap-app.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://parvez3019.github.io/novo-style-resume-builder/docs/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
