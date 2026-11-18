@@ -63,6 +63,26 @@
   padding: 12px 16px 24px;
 }
 
+.editor-footer {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 16px;
+  border-top: 1px solid #dde1e6;
+  background: #fafbfc;
+  font-size: 12px;
+  color: #666;
+}
+
+.editor-footer a {
+  color: #2b78c5;
+  text-decoration: none;
+}
+
+.editor-footer a:hover {
+  text-decoration: underline;
+}
+
 .preview-panel {
   flex: 1;
   overflow: auto;

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions & ideas
+    url: https://github.com/parvez3019/novo-style-resume-builder/discussions
+    about: Ask questions and share what you've built in Discussions.
+  - name: Documentation
+    url: https://parvez3019.github.io/novo-style-resume-builder/docs/
+    about: User guide, FAQ and self-hosting docs.

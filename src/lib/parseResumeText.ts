@@ -146,8 +146,8 @@ function collectJobBody(lines: string[], startIndex: number) {
     if (DATE_LINE.test(line)) break;
     if (index + 2 < lines.length && DATE_ONLY.test(lines[index + 2])) break;
 
-    if (/^Tech Stack[:\-]/i.test(line)) {
-      techStack = line.replace(/^Tech Stack[:\-]\s*/i, '').trim();
+    if (/^Tech Stack[:-]/i.test(line)) {
+      techStack = line.replace(/^Tech Stack[:-]\s*/i, '').trim();
       index += 1;
       continue;
     }
