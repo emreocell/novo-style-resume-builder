@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components -- utility module that also exports a small component; HMR granularity is not a concern here */
 import type { ReactNode } from 'react';
 
 const LINK_PATTERN = /\[([^\]]+)\]\(([^)]+)\)/g;

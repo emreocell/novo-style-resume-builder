@@ -1,7 +1,10 @@
 {
   "name": "novo-resume-builder",
   "private": true,
-  "version": "0.0.0",
+  "description": "Free, private, open-source resume builder with live preview, PDF and ATS export.",
+  "license": "MIT",
+  "homepage": "https://parvez3019.github.io/novo-style-resume-builder/",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
